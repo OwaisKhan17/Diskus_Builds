@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1d0c0ab.css",
-    "main.js": "/static/js/main.cab83942.js",
+    "main.css": "/static/css/main.d77e50a2.css",
+    "main.js": "/static/js/main.3f8439ad.js",
     "static/media/Avatar2.png": "/static/media/Avatar2.17270d15249292189570.png",
     "static/media/Loader.gif": "/static/media/Loader.cc30dcd1e87b8c987172.gif",
     "static/media/file_image.svg": "/static/media/file_image.1ecade89809ccf54351a67089122eb63.svg",
@@ -177,7 +177,6 @@
     "static/media/diskus_newheader.svg": "/static/media/diskus_newheader.8d1025f34f029f9b99290d4aa1c70642.svg",
     "static/media/Location.svg": "/static/media/Location.5f8520f8d69c2664e6163a1139789a9a.svg",
     "static/media/DrapDropIcon.svg": "/static/media/DrapDropIcon.e51a65e7fb2d2e0e8af7de25466e22e7.svg",
-    "static/media/Notes_Dashboard.svg": "/static/media/Notes_Dashboard.fb5d2549fe93b0dd584812f48f1b0ef7.svg",
     "static/media/result.svg": "/static/media/result.4d95d405d1dab1e9ebf6d118942167e1.svg",
     "static/media/Layout-Icon-Selected-with-shape.svg": "/static/media/Layout-Icon-Selected-with-shape.3856e6ab16dc09c24e66cf82e2d82a75.svg",
     "static/media/montserrat-vietnamese-800-normal.woff2": "/static/media/montserrat-vietnamese-800-normal.1230218ed58a4c3b870c.woff2",
@@ -310,6 +309,7 @@
     "static/media/profileAvatar.svg": "/static/media/profileAvatar.271c92d6e1395d405c70486703556025.svg",
     "static/media/threedots_dataroom.svg": "/static/media/threedots_dataroom.2b4bc3c6772c9697973549006a495a17.svg",
     "static/media/Diskus-notification_icon.svg": "/static/media/Diskus-notification_icon.743ddbcc401eeee2e8aeb84c22a98b2b.svg",
+    "static/media/approval_sorter_icon_descend.svg": "/static/media/approval_sorter_icon_descend.a418f16d1da1f239c7503dfd6be89fc8.svg",
     "static/media/NonActiveThreeDots.svg": "/static/media/NonActiveThreeDots.eee71317c101161c3017552c4f977531.svg",
     "static/media/Clock.svg": "/static/media/Clock.54b441afc674a18385f41e4092c8e497.svg",
     "static/media/AttachmentNotes.svg": "/static/media/AttachmentNotes.a9d4e55c1c63d804a5f3d65bde9ac54a.svg",
@@ -322,6 +322,7 @@
     "static/media/Attachment_Resolution.svg": "/static/media/Attachment_Resolution.9de4092df14e6fe42ea4ee800e9c9f2d.svg",
     "static/media/Attachment.svg": "/static/media/Attachment.041f48c9375e48e8b8789f7383d55b51.svg",
     "static/media/ColoredVideo.svg": "/static/media/ColoredVideo.067ce501a20317249e75087a4ea2b186.svg",
+    "static/media/approval_sorter_icon_ascend.svg": "/static/media/approval_sorter_icon_ascend.bc9352662305bc12dccccd92a0ceb73a.svg",
     "static/media/blue Camera.svg": "/static/media/blue Camera.68876e0e2d384874f2d163d26ceb09a9.svg",
     "static/media/ibm-plex-sans-arabic-cyrillic-ext-100-normal.woff": "/static/media/ibm-plex-sans-arabic-cyrillic-ext-100-normal.9f9482475663152b0cc6.woff",
     "static/media/ibm-plex-sans-arabic-cyrillic-ext-500-normal.woff": "/static/media/ibm-plex-sans-arabic-cyrillic-ext-500-normal.299f203a06569898fea0.woff",
@@ -419,18 +420,16 @@
     "static/media/chevron_down_white.svg": "/static/media/chevron_down_white.b092256ac9671feb2995a36b2c7b4c38.svg",
     "static/media/close-accordion.svg": "/static/media/close-accordion.640036125ecb3e148c3a913ce26e43ad.svg",
     "static/media/WhiteCrossIcon.svg": "/static/media/WhiteCrossIcon.c33f9037769e905717a093907468ba76.svg",
-    "static/media/backward.svg": "/static/media/backward.15e8e575812632cc10db519c78d1c5e1.svg",
-    "static/media/forward.svg": "/static/media/forward.e33429f6eca34806bbc3aa37b8270903.svg",
     "static/media/desh.svg": "/static/media/desh.e684912c49bf36a816e33b8c49b366fa.svg",
     "static/media/LineAgenda.svg": "/static/media/LineAgenda.7fdf98382fdc09c378d734341b0c3977.svg",
     "static/media/Line 27.svg": "/static/media/Line 27.eaaf6ae718964e3672d1408aa0876c27.svg",
     "static/media/Polygon 3.svg": "/static/media/Polygon 3.70bec155069efcc88b0425948a46e46b.svg",
     "static/media/Polygon right.svg": "/static/media/Polygon right.07be54cfe8ad19eebccfccd44186d03c.svg",
-    "main.a1d0c0ab.css.map": "/static/css/main.a1d0c0ab.css.map",
-    "main.cab83942.js.map": "/static/js/main.cab83942.js.map"
+    "main.d77e50a2.css.map": "/static/css/main.d77e50a2.css.map",
+    "main.3f8439ad.js.map": "/static/js/main.3f8439ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1d0c0ab.css",
-    "static/js/main.cab83942.js"
+    "static/css/main.d77e50a2.css",
+    "static/js/main.3f8439ad.js"
   ]
 }
